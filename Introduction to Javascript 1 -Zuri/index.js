@@ -1,0 +1,1 @@
+document.write('Name: Adol <br>Height: 6 Ft <br> Country: Nigeria')
